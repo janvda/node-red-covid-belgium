@@ -1,7 +1,5 @@
 node-red-covid-belgium
 ======================
 
-### About
-
-This is your project's README.md file. It helps users understand what your
-project does, how to use it and anything else they may need to know.
+Creates interesting COVID charts based on Sciensano data retrieved from:
+* https://epistat.wiv-isp.be/covid//
