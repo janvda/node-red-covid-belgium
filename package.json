@@ -1,6 +1,6 @@
 {
     "name": "node-red-covid-belgium",
-    "description": "A Node-RED Project",
+    "description": "A Node-RED Project able to display interesting COVID charts for Belgium",
     "version": "0.0.1",
     "dependencies": {
         "node-red-dashboard": "2.23.0"
